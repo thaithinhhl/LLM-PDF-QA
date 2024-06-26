@@ -28,7 +28,8 @@ This project uses Retrieval-Augmented Generation (RAG) to answer questions based
 
 The project pipeline is illustrated in the image below:
 
-![Pipeline]("C:\Users\HOME\OneDrive\Pictures\Screenshots\Screenshot 2024-06-27 012248.png")
+![Pipeline]
+![image](https://github.com/thaithinhhl/LLM-PDF-QA/assets/149486062/e3cac1a0-4d25-4a39-af7d-7d35dd1c0126)
 
 1. **Input Document**: Upload lesson documents.
 2. **Vector Database**: Stores vector representations of the documents.
@@ -42,49 +43,6 @@ The project pipeline is illustrated in the image below:
 - **Input**: Questions and lesson documents.
 - **Output**: Generated answers based on the documents.
 
-## Installation
-
-To run this project, you need to install the required dependencies. You can do this by running:
-
-```bash
-pip install -r requirements.txt
-)
-
-1. **Input Document**: Upload lesson documents.
-2. **Vector Database**: Stores vector representations of the documents.
-3. **Retriever**: Finds relevant sections from the vector database based on the question.
-4. **Prompt**: Combines the retrieved information and the question.
-5. **LLMs**: Uses the Vicuna LLM to generate answers.
-6. **Output Answer**: Provides the final answer to the user.
-
-## Input and Output
-
-- **Input**: Questions and lesson documents.
-- **Output**: Generated answers based on the documents.
-
-## Installation
-
-To run this project, you need to install the required dependencies. You can do this by running:
-
-```bash
-pip install -r requirements.txt
-)
-
-1. **Input Document**: Upload lesson documents.
-2. **Vector Database**: Stores vector representations of the documents.
-3. **Retriever**: Finds relevant sections from the vector database based on the question.
-4. **Prompt**: Combines the retrieved information and the question.
-5. **LLMs**: Uses the Vicuna LLM to generate answers.
-6. **Output Answer**: Provides the final answer to the user.
-
-## Input and Output
-
-- **Input**: Questions and lesson documents.
-- **Output**: Generated answers based on the documents.
-
-## Installation
-
-To run this project, you need to install the required dependencies. You can do this by running:
 
 ```bash
 pip install -r requirements.txt

@@ -22,5 +22,3 @@ The project pipeline is illustrated in the image below:
 - **Output**: Generated answers based on the documents.
 
 
-```bash
-pip install -r requirements.txt

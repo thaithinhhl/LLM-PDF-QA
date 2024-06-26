@@ -7,28 +7,6 @@ This project uses Retrieval-Augmented Generation (RAG) to answer questions based
 ## Pipeline
 
 The project pipeline is illustrated in the image below:
-
-![Pipeline](# RAG Application for Lesson Document Q&A
-
-## Overview
-
-This project uses Retrieval-Augmented Generation (RAG) to answer questions based on lesson documents. The system integrates a vector database, retriever, and large language models (LLMs) to provide accurate answers.
-
-## Pipeline
-
-The project pipeline is illustrated in the image below:
-
-![Pipeline](# RAG Application for Lesson Document Q&A
-
-## Overview
-
-This project uses Retrieval-Augmented Generation (RAG) to answer questions based on lesson documents. The system integrates a vector database, retriever, and large language models (LLMs) to provide accurate answers.
-
-## Pipeline
-
-The project pipeline is illustrated in the image below:
-
-![Pipeline]
 ![image](https://github.com/thaithinhhl/LLM-PDF-QA/assets/149486062/e3cac1a0-4d25-4a39-af7d-7d35dd1c0126)
 
 1. **Input Document**: Upload lesson documents.
